@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/sam-mcdonald-232902a/">Sam McDonald</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and driven by a curiosity to uncover vulnerabilities and defend against emerging threats. My interests lie in vulnerability management and proactive threat detection, and I’m continuously exploring tools, techniques, and hands-on labs to deepen my expertise. This GitHub showcases my ongoing projects and learning journey as I grow in the field, one commit at a time
 
 
 ## ⚠️ Vulnerability Management Projects
