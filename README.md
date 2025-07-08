@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and driven by a curiosity to uncover vulnerab
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CyberSam-FTWR/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CyberSam-FTWR/threat-hunting-scenario-tor)** - **In Prgress**
 
 <hr/>
 
